@@ -1,7 +1,7 @@
 # MacOS系统U盘安装盘安装系统的方法
 ## 参考网站
-  * [如何为macOS创建可启动安装程序](https://support.apple.com/en-us/HT201372) --苹果官方的制作U盘安装盘的方法
-  *
+  * [如何为macOS创建可启动安装程序](https://support.apple.com/en-us/HT201372) - 苹果官方的制作U盘安装盘的方法
+  * [如何为macOS创建可启动安装程序](https://support.apple.com/en-us/HT201372) - piguodddfdf<br>
   *
 ## 安装前的准备
   * 在Apple官方网站下载最新稳定版系统或是测试版系统，或是在系统偏好的Software Update中查看更新并且下载最新的系统。
