@@ -31,5 +31,4 @@ We do not provide support for this pre-release version.
    * Warning: You are using macOS 10.15.
 We do not provide support for this pre-release version.
 ## 安装微软办公
- * appstore
- * sign in account
+ * 未激活
