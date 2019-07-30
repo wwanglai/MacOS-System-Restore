@@ -23,6 +23,8 @@ We do not provide support for this pre-release version.
 ## 安装mysql
  * brew search mysql
  * brew install mysql
+   * Warning: You are using macOS 10.15.
+We do not provide support for this pre-release version.
 ## 安装mongoDB
  * 疑问：需要安装package还是formulae？
  * brew install mongoDB
