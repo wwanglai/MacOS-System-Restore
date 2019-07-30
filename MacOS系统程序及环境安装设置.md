@@ -13,9 +13,19 @@
 
 ## 安装macport
  * [MacPort官网](https://www.macports.org/install.php)
+   *  Warning: You are using macOS 10.15.
+We do not provide support for this pre-release version.
 ## 安装wget
  * brew install wget
 ## 安装python3
  * brew install python3
  * 将系统配置文件添加python3
+## 安装mysql
+ * brew search mysql
+ * brew install mysql
+## 安装mongoDB
+ * 疑问：需要安装package还是formulae？
+ * brew install mongoDB
+  * Warning: You are using macOS 10.15.
+We do not provide support for this pre-release version.
 ## 
