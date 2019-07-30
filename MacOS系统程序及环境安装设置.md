@@ -8,8 +8,14 @@
  * 通过brew下载安装
 ## 安装Xmind
  * 通过brew下载安装
-## 安装
+## 安装git
+ * brew install git
 
 ## 安装macport
  * [MacPort官网](https://www.macports.org/install.php)
+## 安装wget
+ * brew install wget
+## 安装python3
+ * brew install python3
+ * 将系统配置文件添加python3
 ## 
