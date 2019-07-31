@@ -13,8 +13,9 @@
 
 ## 安装macport
  * [MacPort官网](https://www.macports.org/install.php)
-   *  Warning: You are using macOS 10.15.
-We do not provide support for this pre-release version.
+   *  通过source进行install
+   *  具体操作见官网。
+ * 安装过程中如果有bug，参考文件：
 ## 安装wget
  * brew install wget
 ## 安装python3
