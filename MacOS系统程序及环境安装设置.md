@@ -15,8 +15,9 @@
  * [MacPort官网](https://www.macports.org/install.php)
    *  通过source进行install
    *  具体操作见官网。
-   *  profile文件添加：export PATH=$PATH:/opt/local/bin
-                     export PATH=$PATH:/opt/local/sbin
+   *  profile文件添加：
+     * export PATH=$PATH:/opt/local/bin
+     * export PATH=$PATH:/opt/local/sbin
  * 安装过程中如果有bug，参考文件：MACOS_XX-Net安装步骤.xmind
 ## 安装wget
  * brew install wget
