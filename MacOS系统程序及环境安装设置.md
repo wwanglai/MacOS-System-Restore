@@ -36,3 +36,4 @@ We do not provide support for this pre-release version.
 We do not provide support for this pre-release version.
 ## 安装微软办公
  * 未激活
+## 设置输入法切换：输入法偏好设置 > shortcuts > input source > 勾选 select next source input menu
