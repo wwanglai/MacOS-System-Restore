@@ -8,8 +8,8 @@
 # 系统安装及重装
    * 【说明】描述要简洁，不要很多句，这个文档的标题就是MacOS安装相关的，从文档就可以看出来了，因此，内容中不用重复，这样文档更简洁。。另：将相关的内容写在一个文档，通过章节来确定，任务的内容（就是这部分要作什么）。
    * 参考
-    + [Get ready for macOS Mojave](https://support.apple.com/macos/mojave)<br>
-    + [How to reinstall macOS](https://support.apple.com/en-ae/HT204904)<br>
+     + [Get ready for macOS Mojave](https://support.apple.com/macos/mojave)<br>
+     + [How to reinstall macOS](https://support.apple.com/en-ae/HT204904)<br>
   ## 安装
     + 安装前准备
   ## 重装
