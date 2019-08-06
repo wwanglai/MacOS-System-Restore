@@ -20,13 +20,13 @@
         + 参考
            - [Enable the root user in macOS Sierra](https://coolestguidesontheplanet.com/enable-root-user-macos-sierra/)<br>
         + Steps<br>
-          1.As an admin user launch System Preferences from the Apple Menu.<br>
-          2.go to the User and Groups pane.<br>
-          3.authenticate first by clicking on the padlock icon down the bottom left.<br>
-          4.then click on Login Options to see some options on the right.<br>
-          5.Then click the Join… button next to Network Account Server.<br>
-          6.This will pop up a dialog window, from here click on Open Directory Utility.<br>
-          7.go to the Edit menu and select Enable root user, then finally set a password for the root user.<br>
+           1. As an admin user launch System Preferences from the Apple Menu.<br>
+           2. go to the User and Groups pane.<br>
+           3. authenticate first by clicking on the padlock icon down the bottom left.<br>
+           4. then click on Login Options to see some options on the right.<br>
+           5. Then click the Join… button next to Network Account Server.<br>
+           6. This will pop up a dialog window, from here click on Open Directory Utility.<br>
+           7. go to the Edit menu and select Enable root user, then finally set a password for the root user.<br>
 # 应用安装
 ## 系统软件的安装（包括配置）
 ## 应用软件的安装（包括配置）
