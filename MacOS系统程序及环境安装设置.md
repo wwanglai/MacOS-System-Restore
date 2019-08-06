@@ -14,8 +14,19 @@
        + 安装前准备
   ## 重装
        + 重装前准备
-# 系统设置
-
+# 系统环境设置
+  ## 初始设置
+    * 1.Enable the root user
+      + 参考
+        - [Enable the root user in macOS Sierra](https://coolestguidesontheplanet.com/enable-root-user-macos-sierra/)<br>
+      + Steps
+        1.As an admin user launch System Preferences from the Apple Menu
+        2.go to the User and Groups pane
+        3.authenticate first by clicking on the padlock icon down the bottom left
+        4. then click on Login Options to see some options on the right.
+        5.Then click the Join… button next to Network Account Server
+        6.This will pop up a dialog window, from here click on Open Directory Utility
+        7.go to the Edit menu and select Enable root user, then finally set a password for the root user.
 # 应用安装
 ## 系统软件的安装（包括配置）
 ## 应用软件的安装（包括配置）
