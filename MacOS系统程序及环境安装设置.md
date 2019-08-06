@@ -10,10 +10,10 @@
    * 参考
      + [Get ready for macOS Mojave](https://support.apple.com/macos/mojave)<br>
      + [How to reinstall macOS](https://support.apple.com/en-ae/HT204904)<br>
-  ## 安装
-       + 安装前准备
-  ## 重装
-       + 重装前准备
+## 安装
+   * 安装前准备
+## 重装
+   * 重装前准备
 # 系统环境设置
 ## 初始设置
    * Enable the root user
